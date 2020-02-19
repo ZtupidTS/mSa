@@ -1,4 +1,4 @@
 <?php
-echo phpinfo();
+echo "xxxxxxxxx";
 ?>
-<h1>aaaaaaa</h1>
+
